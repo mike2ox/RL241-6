@@ -19,11 +19,11 @@
     
     
 ### 3. 관리
-    - github에 실습 code를 구현&주석 남기고 주 2회 commit.  
-    - co-worker(study member)들의 project에도 commit(주 2회)  
-    - 개인 및 세미나 자료들은 slack에서 관리(세미나 전날에 upload)  
-    **☆ penalty : 주차별 진행 delay –> 1out free, 2out 벌금 or 기타**  
-    - 개인 일정 수정 및 변경은 최소 세미나 2일전까지 notice  
+   - github에 실습 code를 구현&주석 남기고 주 2회 commit.  
+   - co-worker(study member)들의 project에도 commit(주 2회)  
+   - 개인 및 세미나 자료들은 slack에서 관리(세미나 전날에 upload)  
+   __☆penalty : 주차별 진행 delay –> 1out free, 2out 벌금 or 기타__ 
+   - 개인 일정 수정 및 변경은 최소 세미나 2일전까지 notice  
     
 ### 4. 환경
     - python 3.6 / anaconda 
